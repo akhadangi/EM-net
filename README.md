@@ -40,7 +40,7 @@ This repository is official implementation of [**EM-net: Deep learning for elect
 ---
 
 <font size = 4>We have provided the instructions for the usage of this Notebook in the following link:
-  - [**Colab Notebook**](https://www.youtube.com): Walk through the pipeline including data upload, training and deploying the trained model.
+  - [**Colab Notebook**](https://colab.research.google.com/github/akhadangi/EMstellar/blob/master/EMstellarNeuronalGithub.ipynb): Walk through the pipeline including data upload, training and deploying the trained model.
 
 
 ---
