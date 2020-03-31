@@ -1,5 +1,5 @@
 # EMstellar
-This repository is official implementation of "EM-net: Deep learning for electron microscopy image segmentation" on Google Colab.
+This repository is official implementation of [**EM-net: Deep learning for electron microscopy image segmentation**](https://www.biorxiv.org/content/10.1101/2020.02.03.933127v1) on Google Colab.
 
 ---
 
@@ -44,7 +44,7 @@ This repository is official implementation of "EM-net: Deep learning for electro
 
 
 ---
-###**Structure of a notebook**
+### **Structure of a notebook**
 
 <font size = 4>The notebook contains two types of cell:  
 
@@ -53,7 +53,7 @@ This repository is official implementation of "EM-net: Deep learning for electro
 <font size = 4>**Code cells** contain code and the code can be modfied by selecting the cell. To execute the cell, move your cursor on the `[ ]`-mark on the left side of the cell (play button appears). Click to execute the cell. After execution is done the animation of play button stops. You can create a new coding cell by clicking `+ Code`.
 
 ---
-###**Table of contents, Code snippets** and **Files**
+### **Table of contents, Code snippets** and **Files**
 
 <font size = 4>On the top left side of the notebook you find three tabs which contain from top to bottom:
 
