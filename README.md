@@ -68,7 +68,7 @@ This repository is official implementation of [**EM-net: Deep learning for elect
 <font size = 4>**Note:** The "sample data" in "Files" contains default files. Do not upload anything in here!
 
 ---
-###**Making changes to the notebook**
+### **Making changes to the notebook**
 
 <font size = 4>**You can make a copy** of the notebook and save it to your Google Drive. To do this click file -> save a copy in drive.
 
