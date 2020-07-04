@@ -1,16 +1,13 @@
-# EMstellar
+# EM-net
 This repository is official implementation of [**EM-net: Deep learning for electron microscopy image segmentation**](https://www.biorxiv.org/content/10.1101/2020.02.03.933127v1) on Google Colab.
 
 ---
 
-<font size = 4>This notebook represents a benchmark of deep learning methods for electron microscopy image segmentation. A variety of deep learning methods have been utilised including EM-net, U-net, SegNet, ResNet and VGG. All these networks represent a similar encoding-decoding scheme for image segmentation. 
+<font size = 4>This notebook represents the implementation of the EM-net. In addition to the EM-net, a variety of other deep learning methods have also been implemented including U-net, SegNet, ResNet and VGG. All these networks represent a similar encoding-decoding scheme for image segmentation. We have implemented a variety of evaluation metrics which allows you to obtain the maximum desirable performance. Moreover, this notebook offers K-fold cross valiadtion that can be used for training these networks when the training data is limited. Finally, this notebook will enable the users to use ensemble of desirable models for final stage inference on the test data.
 
 
 
 ---
-<font size = 4>*Disclaimer*:
-
-<font size = 4>This notebook is part of the EMstellar (https://github.com/akhadangi/EMstellar).
 
 <font size = 4>Papers related to this Notebook: 
 
@@ -24,13 +21,9 @@ This repository is official implementation of [**EM-net: Deep learning for elect
 
 - <font size = 3>**Deep Residual Learning for Image Recognition** by *Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun*  (https://arxiv.org/abs/1512.03385)
 
-<font size = 3>and 
+<font size = 4>**Please cite this [**original paper**](https://www.biorxiv.org/content/10.1101/2020.02.03.933127v1) when using or developing this notebook.** 
 
-- <font size = 3>**ZeroCostDL4Mic: an open platform to simplify access and use of Deep-Learning in Microscopy** by *Lucas von Chamier, Johanna Jukkala, Christoph Spahn, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Seamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Florian Jug, Loic Alain Royer, Mike Heilemann, Romain F. Laine, Guillaume Jacquemet, Ricardo Henriques*  (https://www.biorxiv.org/content/10.1101/2020.03.20.000133v1)
-
-<font size = 4>**Please also cite this original paper when using or developing this notebook.** 
-
-<font size = 4> This notebook is adapted and developed from the [**ZeroCostDL4Mic**](https://github.com/HenriquesLab/ZeroCostDL4Mic).
+<font size = 3> This notebook is adapted and developed from the [**ZeroCostDL4Mic**](https://github.com/HenriquesLab/ZeroCostDL4Mic).
 
 ---
 
@@ -40,7 +33,7 @@ This repository is official implementation of [**EM-net: Deep learning for elect
 ---
 
 <font size = 4>We have provided the instructions for the usage of this Notebook in the following link:
-  - [**Colab Notebook**](https://colab.research.google.com/github/akhadangi/EMstellar/blob/master/EMstellarNeuronalGithub.ipynb): Walk through the pipeline including data upload, training and deploying the trained model.
+  - [**Colab Notebook**](https://colab.research.google.com/github/akhadangi/EM-net/blob/master/EM_net.ipynb): Walk through the pipeline including data upload, training and deploying the trained model.
 
 
 ---
