@@ -32,6 +32,7 @@ This repository is official implementation of [**EM-net: Deep learning for elect
   - [**YoutTube Video**](https://youtu.be/KOCPEzsrPzw): Walk through the pipeline including data upload, training and deploying the trained model.
 
 **Important: Make sure that you create a copy of the following Colab Notebook on your Google Drive before running or making any changes to the notebook**
+<font size = 4>For better and ultimate inference results, we suggest the users to switch to Colab Premium where they can utilise Tesla P100 GPU.
 ---
 
 <font size = 4>We have provided the instructions for the usage of this Notebook in the following link:
