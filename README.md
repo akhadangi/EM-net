@@ -1,6 +1,8 @@
 # EM-net
 This repository is official implementation of [**EM-net: Deep learning for electron microscopy image segmentation**](https://www.biorxiv.org/content/10.1101/2020.02.03.933127v1) on Google Colab.
 
+<font size = 4>**Important** For better and ultimate inference results, we suggest the users to switch to Colab Premium where they can utilise Tesla P100 GPU.
+
 ---
 
 <font size = 4>This notebook represents the implementation of the EM-net. In addition to the EM-net, a variety of other deep learning methods have also been implemented including U-net, SegNet, ResNet and VGG. All these networks represent a similar encoding-decoding scheme for image segmentation. We have implemented a variety of evaluation metrics which allows you to obtain the maximum desirable performance. Moreover, this notebook offers K-fold cross valiadtion that can be used for training these networks when the training data is limited. Finally, this notebook will enable the users to use ensemble of desirable models for final stage inference on the test data.
@@ -32,7 +34,6 @@ This repository is official implementation of [**EM-net: Deep learning for elect
   - [**YoutTube Video**](https://youtu.be/KOCPEzsrPzw): Walk through the pipeline including data upload, training and deploying the trained model.
 
 **Important: Make sure that you create a copy of the following Colab Notebook on your Google Drive before running or making any changes to the notebook**
-<font size = 4>For better and ultimate inference results, we suggest the users to switch to Colab Premium where they can utilise Tesla P100 GPU.
 ---
 
 <font size = 4>We have provided the instructions for the usage of this Notebook in the following link:
